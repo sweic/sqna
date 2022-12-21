@@ -50,6 +50,7 @@
     "zustand": "^4.0.0"
   },
   "devDependencies": {
+    "@types/jsonwebtoken": "^8.5.9",
     "@types/lodash.debounce": "^4.0.7",
     "@types/node": "18.0.0",
     "@types/node-fetch": "^2.6.2",
