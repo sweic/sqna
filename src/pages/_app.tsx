@@ -54,7 +54,7 @@ function getEndingLink() {
   }
 
   const client = createWSClient({
-    url: "wss://sqna-production.up.railway.app/"
+    url: "ws://sqna-production.up.railway.app/"
   });
 
   return wsLink<AppRouter>({
